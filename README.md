@@ -3,4 +3,4 @@
 [![Nuget status](https://img.shields.io/nuget/v/OBeautifulCode.Uri.Recipes.UriExtensions.svg)](https://www.nuget.org/packages/OBeautifulCode.Uri.Recipes.UriExtensions)  OBeautifulCode.Uri.Recipes.UriExtensions
 
 # OBeautifulCode.Uri
-
+Contains URI helper methods.

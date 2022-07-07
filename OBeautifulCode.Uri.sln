@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBeautifulCode.Uri.Recipes", "OBeautifulCode.Uri.Recipes\OBeautifulCode.Uri.Recipes.csproj", "{AE0BAF30-E160-4D2B-9608-15CAE411AC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBeautifulCode.Uri.Recipes.Test", "OBeautifulCode.Uri.Recipes.Test\OBeautifulCode.Uri.Recipes.Test.csproj", "{4604F239-3A41-4139-992E-11FF40EBE536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0BAF30-E160-4D2B-9608-15CAE411AC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0BAF30-E160-4D2B-9608-15CAE411AC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0BAF30-E160-4D2B-9608-15CAE411AC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0BAF30-E160-4D2B-9608-15CAE411AC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4604F239-3A41-4139-992E-11FF40EBE536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4604F239-3A41-4139-992E-11FF40EBE536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4604F239-3A41-4139-992E-11FF40EBE536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4604F239-3A41-4139-992E-11FF40EBE536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476E397B-03AF-479B-9D8E-825BA809E0D3}
+	EndGlobalSection
+EndGlobal

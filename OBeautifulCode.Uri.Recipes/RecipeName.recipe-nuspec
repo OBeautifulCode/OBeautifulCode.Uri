@@ -1,12 +1,12 @@
-﻿<?xml version="1.0"?>
-<package >
+<?xml version="1.0"?>
+<package>
   <metadata>
     <id>OBeautifulCode.Uri.Recipes.RECIPE_NAME_HERE</id>
     <description>DESCRIPTION_HERE</description>
     <tags>TAGS_HERE snippet codeinclude utility shared recipe Uri</tags>
     <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Uri/main/OBeautifulCode.Uri.Recipes/nuget-icon.png</iconUrl>
     <dependencies>
-      <dependency id="OBeautifulCode.CodeAnalysis.Recipes.SuppressBecause" version="1.0.6" />
+      <dependency id="OBeautifulCode.CodeAnalysis.Recipes.SuppressBecause" version="1.0.17" />
     </dependencies>
   </metadata>
   <files>

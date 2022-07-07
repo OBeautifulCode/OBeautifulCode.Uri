@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>OBeautifulCode.Uri.Recipes.RECIPE_NAME_HERE</id>
-    <description>DESCRIPTION_HERE</description>
-    <tags>TAGS_HERE snippet codeinclude utility shared recipe Uri</tags>
+    <id>OBeautifulCode.Uri.Recipes.UriExtensions</id>
+    <description>Extension methods on URI</description>
+    <tags>extension snippet codeinclude utility shared recipe Uri</tags>
     <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.Uri/main/OBeautifulCode.Uri.Recipes/nuget-icon.png</iconUrl>
     <dependencies>
       <dependency id="OBeautifulCode.CodeAnalysis.Recipes.SuppressBecause" version="1.0.17" />
     </dependencies>
   </metadata>
   <files>
-    <file src="Class1.cs" target="content\net462\.recipes\OBeautifulCode.Uri\Class1.cs" />
+    <file src="UriExtensions.cs" target="content\net462\.recipes\OBeautifulCode.Uri\UriExtensions.cs" />
   </files>
 </package>

@@ -1,5 +1,5 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="Class1Test.cs" company="OBeautifulCode">
+// <copyright file="UriExtensionsTest.cs" company="OBeautifulCode">
 //   Copyright (c) OBeautifulCode 2018. All rights reserved.
 // </copyright>
 // --------------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ namespace OBeautifulCode.Uri.Recipes.Test
 
     using Xunit;
 
-    public static class Class1Test
+    public static class UriExtensionsTest
     {
         [Fact]
         public static void Method___Should_do_something___When_called()
